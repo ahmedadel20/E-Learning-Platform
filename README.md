@@ -1,1 +1,1 @@
- A spring App using JPA and PostgreSQL.
+ An E-learning spring App using JPA and PostgreSQL.
